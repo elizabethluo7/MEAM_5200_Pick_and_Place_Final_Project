@@ -44,16 +44,6 @@ The final system successfully
 - successfully grasped and stacked dynamic blocks from the rotating platform
 - demonstrated repeatable autonomous pick-and-place behavior on the Franka Panda arm
 
-![Demo](static.mp4)
-
-Additional videos are available below.
-
-## Videos
-
-- Pick-and-place demonstration
-- Autonomous navigation
-- Failure recovery
-
-
+![Demo](videos/static.gif)
 
 ...
